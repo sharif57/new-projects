@@ -1,0 +1,211 @@
+/* banner related styles */
+body {
+    font-family: 'Work Sans';
+}
+
+.banner-greating {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+}
+
+.paragraph {
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px 20px 26px;
+
+}
+
+header {
+    background-image: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+
+.banner-contenr {
+    text-align: right;
+    margin-right: 230px;
+    padding-top: 216px;
+    padding-bottom: 166px;
+    padding-left: 845px;
+}
+
+.section-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.section-paragraph,
+.section-list {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section-list {
+    margin-top: 16px;
+}
+
+.section-list li {
+    margin-bottom: 8px;
+}
+
+.section1 {
+    margin-top: 370px;
+    margin-left: 862px;
+    margin-right: 322px;
+}
+
+.main-section img {
+    margin-top: -650px;
+    margin-left: 228px;
+    border-radius: 527px;
+
+    background: rgba(241, 91, 34, 0.20);
+}
+
+.section-text {
+    color: #151414;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 130px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
+    justify-content: space-around;
+}
+
+.skills-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.skills-description {
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.watch {
+    background-image: url('../images/watch.png');
+    width: 1140px;
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 135px;
+}
+
+.pic-text {
+    color: #FFF;
+    font-size: 40px;
+}
+
+.pic-text {
+    padding-left: 64px;
+    padding-top: 60px;
+    padding-right: 617px;
+    padding-bottom: 0;
+}
+
+.btn-button {
+    margin-top: 24px;
+    margin-left: 64px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+}
+
+footer {
+    margin-top: 130px;
+    background-color: #151414;
+}
+
+.section-title2 {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 130px;
+}
+
+.section-descripton2 {
+    color: #FFF;
+    font-size: 16px;
+    margin-right: 885px;
+}
+
+.email,
+.phone {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.footer-column {
+    margin-left: 230px;
+    margin-top: 130px;
+}
+
+.social-links {
+    padding-bottom: 130px;
+}
+
+.form-section {
+
+    padding-top: 130px;
+
+}
+
+.btn-section {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.text-2 {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 816px;
+    padding-right: 200px;
+    margin-bottom: 430px;
+    
+
+}
+
+#enter-btn {
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+}
